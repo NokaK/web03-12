@@ -1,6 +1,14 @@
-h1 {
-	color:green;
+* {
+	margin:0;
 }
-p {
-	font-size: 24px;
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+section {
+	background-color: darkgreen;
+}
+.pink {
+	background-color: pink;
 }
